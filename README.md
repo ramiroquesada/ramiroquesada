@@ -6,11 +6,11 @@
 
 <div align="center">
  <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramiroquesada&hide=issues,contribs&show_icons=true&theme=transparent" height="180px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ramiroquesada&hide=issues,contribs&show_icons=true&theme=transparent" height="150px" />
  </a>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="#">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramiroquesada" height="250px" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramiroquesada" height="200px" />
  </a>
 </div>
  
